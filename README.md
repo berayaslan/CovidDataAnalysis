@@ -1,4 +1,4 @@
-# CovidPortfolioProject
+# Covid Data Analysis Project
 
 ## Introduction
 
