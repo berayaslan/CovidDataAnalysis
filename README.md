@@ -22,12 +22,11 @@ The analysis is based on three main datasets:
 
 ## Visualizations
 
-The report includes different tables.
+The report includes many different tables.
 
 ## Implementation Details
 
-- The project is implemented in a Jupyter Notebook, ensuring clarity and readability through comprehensive comments and efficient function definitions.
-- The analysis uses Python, with libraries such as Pandas and Matplotlib for data manipulation and visualization.
+- The project is implemented in a MsSQL, ensuring clarity and readability through comprehensive tables.
 
 ## Conclusion
 
