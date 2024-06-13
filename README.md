@@ -22,7 +22,7 @@ The analysis is based on three main datasets:
 
 ## Visualizations
 
-The report includes various visualizations such as bar charts, world maps, and correlation matrices to support the findings.
+The report includes different tables.
 
 ## Implementation Details
 
